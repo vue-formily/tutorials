@@ -1,4 +1,8 @@
-# med-automate-form
+# Vue3 Profile Form Example
+
+## Links:
+- [Medium - Automate Your Forms With Vue Formily](https://medium.com/@hanaprintle/automate-your-forms-with-vue-formily-db69435f381c)
+- [Vue Formily Documentation](https://vue-formily.netlify.app/)
 
 ## Project setup
 ```
